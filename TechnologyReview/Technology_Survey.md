@@ -3,7 +3,7 @@
 * AndroidMalwareDump - http://androidmalwaredump.blogspot.com 
 
 
-## Android Virus Scan
+## Android Online Scanner
 * AndroTotal - http://andrototal.org
 
 
@@ -16,9 +16,11 @@
 * DroidBox - https://code.google.com/p/droidbox
 
 
-## Android Malware Analysis
+## Android Online Malware Analysis
 * Mobile Sandbox - http://131.188.31.187
 * Andrubis - https://anubis.iseclab.org
+* Sandroid - http://sanddroid.xjtu.edu.cn
+* ForeSafe Scan - http://www.foresafe.com/scan
 
 
 ## Android Malware Analysis Linux Distros
@@ -26,7 +28,7 @@
 * REMnux - http://zeltser.com/remnux
 * Santoku Linux - https://santoku-linux.com
 * Android Reverse Engineering(ARE) - https://redmine.honeynet.org/projects/are/wiki
-* Sandroid - http://sanddroid.xjtu.edu.cn
+
 
 
 ## Android Reversing Tools
